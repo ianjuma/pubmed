@@ -3,3 +3,4 @@ Flask
 PyQuery
 scrapy
 lxml
+beautifulsoup4
