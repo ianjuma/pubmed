@@ -1,9 +1,4 @@
-requests
-Flask
-PyQuery
-scrapy
 lxml
 beautifulsoup4
 numpy
 pandas
-grequests

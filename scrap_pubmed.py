@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 
 from Bio import Entrez
+from pub_med import fetch_page_per_index, retrieve_impact_factor
+
+email = 'wjuma@students.usiu.ac.ke'
 
 
 def search(query, number_of_articles_):
-    Entrez.email = 'wjuma@students.usiu.ac.ke'
+    Entrez.email = email
     handle = Entrez.esearch(db='pubmed',
                             sort='relevance',
                             retmax=number_of_articles_,
@@ -47,17 +50,24 @@ if __name__ == '__main__':
         month = paper['MedlineCitation']['Article']['ArticleDate'][0]['Month']
         day = paper['MedlineCitation']['Article']['ArticleDate'][0]['Day']
 
-        print 'Date Completed: ', paper['MedlineCitation']['DateCompleted']
-        target.write('Date Completed: ' + str(paper['MedlineCitation']['DateCompleted']) + '\n')
-        print 'Date published: %s-%s-%s \n' % (year, month, day)
+        # print 'Date Completed: ', paper['MedlineCitation']['DateCompleted']
+        # target.write('Date Completed: ' + str(paper['MedlineCitation']['DateCompleted']) + '\n')
+        print 'Date published: %s-%s-%s' % (year, month, day)
         target.write('Date published: %s-%s-%s \n' % (year, month, day) + '\n')
 
-        print paper['MedlineCitation']['Article']['ArticleTitle']
+        # get journal impact factor
+        data_frame = fetch_page_per_index(paper['MedlineCitation']['Article']['ArticleTitle'])
+        impact_factor = retrieve_impact_factor(paper['MedlineCitation']['Article']['Journal']['ISSN'], data_frame)
+        print "Impact factor - " + impact_factor + "\n"
+        target.write("Impact factor - " + impact_factor + "\n")
+
+        print paper['MedlineCitation']['Article']['ArticleTitle'] + "\n"
         target.write(paper['MedlineCitation']['Article']['ArticleTitle'] + '\n')
-        print paper['MedlineCitation']['Article']['Abstract']['AbstractText']
+        print paper['MedlineCitation']['Article']['Abstract']['AbstractText'][0]
         target.write(str(paper['MedlineCitation']['Article']['Abstract']['AbstractText']) + '\n')
 
         print "\n---------------------- AUTHORS ------------------------ \n"
+        target.write("\n---------------------- AUTHORS ------------------------ \n")
         for author in paper['MedlineCitation']['Article']['AuthorList']:
             number_of_authors += 1
             print author['LastName'], author['ForeName'], "--", author['AffiliationInfo'][0]['Affiliation']
