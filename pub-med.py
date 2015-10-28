@@ -1,14 +1,48 @@
 import urllib2
 
-wiki = "http://www.citefactor.org/journal-impact-factor-list-2014_T.html"
-
-page = urllib2.urlopen(wiki)
 from bs4 import BeautifulSoup
 import pandas as pd
 
+wiki = "http://www.citefactor.org/journal-impact-factor-list-2014_G.html"
+
+all_url = 'http://www.citefactor.org/journal-impact-factor-list-2014_%s.html'
+a_url = 'http://www.citefactor.org/journal-impact-factor-list-2014_0-A.html'
+
+alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M']
+urls = []
+
+
+def fetch_per_index(index, url):
+    page = urllib2.urlopen(wiki)
+
+    soup = BeautifulSoup(page)
+    tables_ = soup.find_all('table', {"class": ''})
+    data_tables = tables_[1]
+    return data_tables
+
+
+def extract_data_frame(table_):
+    pass
+
+
+def generate_results():
+    for number in range(len(alphabet)):
+        urls.append(all_url % alphabet[number])
+
+    try:
+        result = urllib2.urlopen(wiki)
+    except:
+        print 'Error failed to fetch URL'
+
+    return result
+
+
+# results = generate_results()
+
+page = urllib2.urlopen(wiki)
 soup = BeautifulSoup(page)
 
-tables_ = soup.find_all('table', {"class": ''})
+tables_ = soup.find_all('table')
 data_tables = tables_[1]
 
 A = []
@@ -20,7 +54,6 @@ F = []
 G = []
 H = []
 I = []
-
 
 for row in data_tables.find_all('tr'):
     cells = row.findAll('td')
@@ -38,13 +71,31 @@ for row in data_tables.find_all('tr'):
 
 
 df = pd.DataFrame(A, columns=['Index'])
-df['Journal'] = B
+# df['Journal'] = B
 df['ISSN'] = C
 df['2013/2014'] = D
-df['2012'] = E
-df['2011'] = F
-df['2010'] = G
-df['2009'] = H
-df['2008'] = I
+# df['2012'] = E
+# df['2011'] = F
+# df['2010'] = G
+# df['2009'] = H
+# df['2008'] = I
 
-print df
+# print df
+
+# get article title - pass to url group
+# fetch cite factor from ISSN no
+# 0065-308X
+# 0860-0953
+
+# def retrieve_impact_factor(issn_):
+issn_index = 0
+print issn_index
+for el, issn in enumerate(df['ISSN']):
+    if issn == str("0860-0953"):
+        issn_index = el
+
+print "ISSN " + str(issn_index)
+
+for el in range(len(df['ISSN'])):
+    if el == issn_index:
+        print df['2013/2014'][el]

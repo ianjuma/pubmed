@@ -1,39 +1,81 @@
-Article ID: 25595861
-ISSN No: 1527-3792
-Date Completed: {u'Month': '09', u'Day': '03', u'Year': '2015'}
-Date published: 2015-01-13 
+Article ID: 26003037
+ISSN No: 0065-308X
+Date Completed: {u'Month': '07', u'Day': '30', u'Year': '2015'}
+Date published: 2015-05-08 
 
-Impact on Pregnancy of Gross and Microscopic Vasal Fluid during Vasectomy Reversal.
-[StringElement('We compared fertility outcomes with gross and microscopic fluid findings at vasectomy reversal at a high volume vasectomy reversal center.', attributes={u'NlmCategory': u'OBJECTIVE', u'Label': u'PURPOSE'}), StringElement('A retrospective study of a prospective database was performed. All vasectomy reversals were performed by a single surgeon (EFF) between 1978 and 2011. The clinical pregnancy rate was self-reported or determined via patient mailers. Patient and operative findings were determined through database review. We classified vasal fluid as opalescent, creamy, pasty or clear. Intraoperative light microscopy was used to determine if sperm or sperm parts were present and if they were motile. Multivariate analysis was performed evaluating patient age, partner age, years after vasectomy, type of surgery, and gross and microscopic fluid analysis.', attributes={u'NlmCategory': u'METHODS', u'Label': u'MATERIALS AND METHODS'}), StringElement('A total of 2,947 microsurgical vasectomy reversals were reviewed after we excluded reversals performed for post-vasectomy pain. We determined the pregnancy status of 902 (31%) cases. On univariate analysis with respect to pregnancy the presence of motile sperm at vasovasostomy neared statistical significance (p=0.075) and there was no difference between bilateral vs unilateral motile sperm. Gross fluid appearance was not statistically significant but we found the order of pregnancy success to be opalescent, creamy, clear then pasty fluid. On multivariate analysis only female partner age and sperm heads only or no sperm seen on light microscopy had statistical significance (p <0.05).', attributes={u'NlmCategory': u'RESULTS', u'Label': u'RESULTS'}), StringElement('The presence of motile sperm at vasectomy reversal approaches statistical significance on univariate analysis as a factor that affects clinical pregnancy rates. On multivariate analysis female partner age and microscopic findings of sperm heads only or no sperm are inversely related to pregnancy rates. These data will help counsel couples after vasectomy reversal and reinforce the importance of female partner age.', attributes={u'NlmCategory': u'CONCLUSIONS', u'Label': u'CONCLUSIONS'})]
-OstrowskiKevin A--Department of Urology, Oregon Health & Science University, Portland, Oregon.
-PolackwichA Scott--Department of Urology, Oregon Health & Science University, Portland, Oregon.
-ConlinMichael J--Department of Urology, Oregon Health & Science University, Portland, Oregon.
-HedgesJason C--Department of Urology, Oregon Health & Science University, Portland, Oregon. Electronic address: hedgesja@ohsu.edu.
-FuchsEugene F--Department of Urology, Oregon Health & Science University, Portland, Oregon.
+Development of malaria transmission-blocking vaccines: from concept to product.
+['Despite decades of effort battling against malaria, the disease is still a major cause of morbidity and mortality. Transmission-blocking vaccines (TBVs) that target sexual stage parasite development could be an integral part of measures for malaria elimination. In the 1950s, Huff et al. first demonstrated the induction of transmission-blocking immunity in chickens by repeated immunizations with Plasmodium gallinaceum-infected red blood cells. Since then, significant progress has been made in identification of parasite antigens responsible for transmission-blocking activity. Recombinant technologies accelerated evaluation of these antigens as vaccine candidates, and it is possible to induce effective transmission-blocking immunity in humans both by natural infection and now by immunization with recombinant vaccines. This chapter reviews the efforts to produce TBVs, summarizes the current status and advances and discusses the remaining challenges and approaches.']
+WuYimin--Laboratory of Malaria Immunology and Vaccinology, National Institute of Allergy and Infectious Diseases, Rockville, MD, USA.
+SindenRobert E--The Jenner Institute, Oxford, UK.
+ChurcherThomas S--MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, UK.
+TsuboiTakafumi--Division of Malaria Research, Ehime University, Matsuyama, Ehime, Japan.
+YusibovVidadi--Fraunhofer USA Center for Molecular Biotechnology, Newark, DE, USA.
 total author # - 5 authors
 ---------------------------  END  ---------------------------------
-Article ID: 25576820
-ISSN No: 1097-6868
-Date Completed: {u'Month': '07', u'Day': '27', u'Year': '2015'}
-Date published: 2015-01-07 
+Article ID: 25941365
+ISSN No: 1091-6490
+Date Completed: {u'Month': '10', u'Day': '13', u'Year': '2015'}
+Date published: 2015-05-04 
 
-Pregnancy induces persistent changes in vascular compliance in primiparous women.
-[StringElement('Pregnancy induces rapid, progressive, and substantial changes to the cardiovascular system. The low recurrence risk of preeclampsia, despite familial predisposition, suggests an adaptation associated with pregnancy that attenuates the risk for subsequent preeclampsia. We aimed to evaluate the persistent effect of pregnancy on maternal cardiovascular physiology.', attributes={u'NlmCategory': u'OBJECTIVE', u'Label': u'OBJECTIVE'}), StringElement('Forty-five healthy nulliparous women underwent baseline cardiovascular assessment before conception and repeated an average of 30 months later. After baseline evaluation, 17 women conceived singleton pregnancies and all delivered at term. The remaining 28 women comprised the nonpregnant control group. We measured mean arterial blood pressure, cardiac output, plasma volume, pulse wave velocity, uterine blood flow, and flow-mediated vasodilation at each visit.', attributes={u'NlmCategory': u'METHODS', u'Label': u'STUDY DESIGN'}), UnicodeElement(u'There was a significant decrease in mean arterial pressure from the prepregnancy visit to postpartum in women with an interval pregnancy (prepregnancy, 85.3\xb11.8; postpartum, 80.5\xb11.8 mm Hg), with no change in nonpregnant control subjects (visit 1, 80.3\xb11.4; visit 2, 82.8\xb11.4 mm Hg) (P=.002). Pulse wave velocity was significantly decreased in women with an interval pregnancy (prepregnancy, 2.73\xb10.05; postpartum, 2.49\xb10.05 m/s), as compared with those without an interval pregnancy (visit 1, 2.56\xb10.04; visit 2, 2.50\xb10.04 m/s) (P=.005). We did not observe a residual effect of pregnancy on cardiac output, plasma volume, uterine blood flow, or flow-mediated vasodilation.', attributes={u'NlmCategory': u'RESULTS', u'Label': u'RESULTS'}), StringElement('Our observations of decreased mean arterial pressure and reduced arterial stiffness following pregnancy suggest a significant favorable effect of pregnancy on maternal cardiovascular remodeling. These findings may represent a mechanism by which preeclampsia risk is reduced in subsequent pregnancies.', attributes={u'NlmCategory': u'CONCLUSIONS', u'Label': u'CONCLUSION'})]
-MorrisErin A--Department of Obstetrics, Gynecology, and Reproductive Sciences, University of Vermont College of Medicine, Burlington, VT.
-HaleSarah A--Department of Obstetrics, Gynecology, and Reproductive Sciences, University of Vermont College of Medicine, Burlington, VT.
-BadgerGary J--Department of Medical Biostatistics, University of Vermont College of Medicine, Burlington, VT.
-MagnessRonald R--Department of Obstetrics and Gynecology, Perinatal Research Laboratories, University of Wisconsin School of Medicine and Public Health, University of Wisconsin-Madison, Madison, WI.
-BernsteinIra M--Department of Obstetrics, Gynecology, and Reproductive Sciences, University of Vermont College of Medicine, Burlington, VT. Electronic address: ira.bernstein@uvm.edu.
+Modeling malaria genomics reveals transmission decline and rebound in Senegal.
+[u'To study the effects of malaria-control interventions on parasite population genomics, we examined a set of 1,007 samples of the malaria parasite Plasmodium falciparum collected in Thi\xe8s, Senegal between 2006 and 2013. The parasite samples were genotyped using a molecular barcode of 24 SNPs. About 35% of the samples grouped into subsets with identical barcodes, varying in size by year and sometimes persisting across years. The barcodes also formed networks of related groups. Analysis of 164 completely sequenced parasites revealed extensive sharing of genomic regions. In at least two cases we found first-generation recombinant offspring of parents whose genomes are similar or identical to genomes also present in the sample. An epidemiological model that tracks parasite genotypes can reproduce the observed pattern of barcode subsets. Quantification of likelihoods in the model strongly suggests a reduction of transmission from 2006-2010 with a significant rebound in 2012-2013. The reduced transmission and rebound were confirmed directly by incidence data from Thi\xe8s. These findings imply that intensive intervention to control malaria results in rapid and dramatic changes in parasite population genomics. The results also suggest that genomics combined with epidemiological modeling may afford prompt, continuous, and cost-effective tracking of progress toward malaria elimination.']
+DanielsRachel F--Departments of Immunology and Infectious Diseases and Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA 02138; rdaniels@hsph.harvard.edu dhartl@oeb.harvard.edu dfwirth@hsph.harvard.edu.
+SchaffnerStephen F--Broad Institute, Cambridge, MA 02142;
+WengerEdward A--Institute for Disease Modeling, Bellevue, WA 98005;
+ProctorJoshua L--Institute for Disease Modeling, Bellevue, WA 98005;
+ChangHsiao-Han--Center for Communicable Disease Dynamics, Harvard T. H. Chan School of Public Health, Boston, MA 02115; Epidemiology and.
+WongWesley--Departments of Immunology and Infectious Diseases and.
+BaroNicholas--Departments of Immunology and Infectious Diseases and.
+NdiayeDaouda--Faculty of Medicine and Pharmacy, Cheikh Anta Diop University, Dakar, Senegal;
+FallFatou Ba--Senegal National Malaria Control Program, BP 25 270 Dakar-Fann, Senegal;
+NdiopMedoune--Senegal National Malaria Control Program, BP 25 270 Dakar-Fann, Senegal;
+BaMady--Senegal National Malaria Control Program, BP 25 270 Dakar-Fann, Senegal;
+MilnerDanny A--Departments of Immunology and Infectious Diseases and.
+TaylorTerrie E--College of Osteopathic Medicine, Michigan State University, East Lansing, MI, 48824; Blantyre Malaria Project, University of Malawi College of Medicine, Blantyre, Malawi; and.
+NeafseyDaniel E--Broad Institute, Cambridge, MA 02142;
+VolkmanSarah K--Departments of Immunology and Infectious Diseases and Broad Institute, Cambridge, MA 02142; School of Nursing and Health Sciences, Simmons College, Boston, MA, 02115.
+EckhoffPhilip A--Institute for Disease Modeling, Bellevue, WA 98005;
+HartlDaniel L--Departments of Immunology and Infectious Diseases and Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA 02138; rdaniels@hsph.harvard.edu dhartl@oeb.harvard.edu dfwirth@hsph.harvard.edu.
+WirthDyann F--Departments of Immunology and Infectious Diseases and Broad Institute, Cambridge, MA 02142; rdaniels@hsph.harvard.edu dhartl@oeb.harvard.edu dfwirth@hsph.harvard.edu.
+total author # - 18 authors
+---------------------------  END  ---------------------------------
+Article ID: 25877471
+ISSN No: 1365-3156
+Date Completed: {u'Month': '09', u'Day': '18', u'Year': '2015'}
+Date published: 2015-04-30 
+
+Differences in malaria care seeking and dispensing outcomes for adults and children attending drug vendors in Nasarawa, Nigeria.
+[StringElement('To characterise the differences in care seeking behaviour and dispensing outcomes between adults and children purchasing drugs for malaria at retail shops in Nigeria.', attributes={u'NlmCategory': u'OBJECTIVE', u'Label': u'OBJECTIVES'}), StringElement('In Nasarawa State, retail drug shops were enumerated and a subset of those stocking antimalarials were selected as study sites and surveyed. Customers exiting shops after purchasing antimalarial drugs were surveyed and tested with a malaria rapid diagnostic test. Sick adults and caregivers accompanying sick children were eligible, but individuals purchasing drugs for a sick person that was not present were excluded. Multivariate regression analysis was used to identify the correlates of care seeking and the quality of interaction at the shop.', attributes={u'NlmCategory': u'METHODS', u'Label': u'METHODS'}), StringElement('Of 737 participants, 80% were adults and 20% were children (under age 18). Caregivers of sick children were more likely to obtain a prescription prior to attending a drug retailer than adults seeking care for themselves and waited a shorter time before seeking care. Caregivers of sick children were also more likely than sick adults to have been asked about symptoms by the retailer, to have been given an examination, and to have purchased an ACT. Fewer than half of respondents had purchased an ACT. Only 14% of adults, but 27% of children were RDT-positive; RDT-positive children were more likely to have had an ACT purchased for them than RDT-positive adults.', attributes={u'NlmCategory': u'RESULTS', u'Label': u'RESULTS'}), StringElement('Children with suspected malaria tend to receive better care at drug retailers than adults. The degree of overtreatment and prevalence of dispensing non-recommended antimalarials emphasise the need for routine diagnosis before treatment to properly treat both malaria and non-malaria illnesses.', attributes={u'NlmCategory': u'CONCLUSIONS', u'Label': u'CONCLUSIONS'})]
+LiuJenny--Global Health Group, Global Health Sciences, University of California, San Francisco, San Francisco, CA, USA.
+IsiguzoChinwoke--Society for Family Health, Garki, Abuja, FCT, Nigeria.
+SieverdingMaia--Global Health Group, Global Health Sciences, University of California, San Francisco, San Francisco, CA, USA.
+total author # - 3 authors
+---------------------------  END  ---------------------------------
+Article ID: 25877758
+ISSN No: 1365-3156
+Date Completed: {u'Month': '09', u'Day': '18', u'Year': '2015'}
+Date published: 2015-04-30 
+
+Effectiveness of insecticide-treated and untreated nets to prevent malaria in India.
+[StringElement('India is the most malaria-endemic country in South-East Asia, resulting in a high socio-economic burden. Insecticide-treated or untreated nets are effective interventions to prevent malaria. As part of an Indian first-aid guideline project, we aimed to investigate the magnitude of this effect in India.', attributes={u'NlmCategory': u'OBJECTIVE', u'Label': u'OBJECTIVES'}), StringElement('We searched MEDLINE, Embase and Central to systematically review Indian studies on the effectiveness of treated or untreated vs. no nets. Parasite prevalence and annual parasite incidence served as malaria outcomes. The overall effect was investigated by performing meta-analyses and calculating the pooled risk ratios (RR) and incidence rate ratios.', attributes={u'NlmCategory': u'METHODS', u'Label': u'METHODS'}), StringElement('Of 479 articles, we finally retained 16 Indian studies. Untreated nets decreased the risk of parasite prevalence compared to no nets [RR 0.69 (95% CI; 0.55, 0.87) in high-endemic areas, RR 0.49 (95% CI; 0.28, 0.84) in low-endemic areas], as was the case but more pronounced for treated nets [RR 0.35 (95% CI; 0.26, 0.47) in high-endemic areas, risk ratio 0.16 (95% CI; 0.06, 0.44) in low-endemic areas]. Incidence rate ratios showed a similar observation: a significantly reduced rate of parasites in the blood for untreated nets vs. no nets, which was more pronounced in low-endemic areas and for those who used treated nets. The average effect of treated nets (vs. no nets) on parasite prevalence was higher in Indian studies (RR 0.16-0.35) than in non-Indian studies (data derived from a Cochrane systematic review; RR 0.58-0.87).', attributes={u'NlmCategory': u'RESULTS', u'Label': u'RESULTS'}), StringElement('Both treated and untreated nets have a clear protective effect against malaria in the Indian context. This effect is more pronounced there than in other countries.', attributes={u'NlmCategory': u'CONCLUSIONS', u'Label': u'CONCLUSIONS'})]
+Van RemoortelHans--Belgian Red Cross-Flanders, Mechelen, Belgium.
+De BuckEmmy--Belgian Red Cross-Flanders, Mechelen, Belgium.
+SinghalManeesh--Department of Trauma Surgery, All India Institute of Medical Sciences, New Delhi, India.
+VandekerckhovePhilippe--Belgian Red Cross-Flanders, Mechelen, Belgium.
+AgarwalSatya P--Indian Red Cross Society, New Delhi, India.
 total author # - 5 authors
 ---------------------------  END  ---------------------------------
-Article ID: 26084843
-ISSN No: 1600-0412
-Date Completed: {u'Month': '10', u'Day': '19', u'Year': '2015'}
-Date published: 2015-07-14 
+Article ID: 25701866
+ISSN No: 1537-6613
+Date Completed: {u'Month': '10', u'Day': '12', u'Year': '2015'}
+Date published: 2015-02-20 
 
-Effect of asymptomatic vaginal colonization with Candida albicans on pregnancy outcome.
-[StringElement('Vaginal infection is a major causative factor of preterm delivery. The present study was performed to evaluate the effect of asymptomatic vaginal colonization with Candida albicans at early gestation on pregnancy outcome.', attributes={u'NlmCategory': u'BACKGROUND', u'Label': u'INTRODUCTION'}), StringElement('From 2005 to 2014, a total of 8447 women with singleton pregnancies between 10(+0) and 16(+0) gestational weeks were routinely subjected to an antenatal infection screen-and-treat program. Vaginal smears were Gram-stained and microscopically evaluated, and data were retrospectively analyzed. Women exposed to Candida received clotrimazole and were re-tested after 4-6 weeks. Treatment was repeated in case of recurrence. Women with normal or intermediate vaginal flora were considered as non-exposed. Bacterial vaginosis and trichomoniasis were assessed and treated as well. Descriptive data analysis, chi-squared testing and multiple regression analysis with adjustment for potential confounders were performed. Rates of asymptomatic vaginal infections, preterm delivery and low birthweight served as the main outcomes measures.', attributes={u'NlmCategory': u'METHODS', u'Label': u'MATERIAL AND METHODS'}), StringElement('A normal or intermediate flora was found in 6708 (79.4%) of the screened women; 1142 women (13.5%) showed asymptomatic C. albicans infection. Of this group, 185 women (2.2%) had a recurrence of Candida on vaginal smears. Compared with the non-exposed women with normal or intermediate flora, those with recurrent candidiasis had higher rates of preterm delivery (11.9% vs. 9.5%) and of low birthweight (10.8% vs. 8.0%), as confirmed in the multiple model (p = 0.02).', attributes={u'NlmCategory': u'RESULTS', u'Label': u'RESULTS'}), StringElement('Recurrent asymptomatic vaginal colonization with Candida in early pregnancy is associated with preterm delivery and low birthweight. Routine screening and consequent treatment for candidiasis could improve pregnancy outcomes.', attributes={u'NlmCategory': u'CONCLUSIONS', u'Label': u'CONCLUSIONS'})]
-FarrAlex--Division of Obstetrics and Fetomaternal Medicine, Department of Obstetrics and Gynecology, Medical University Vienna, Vienna, Austria.
-KissHerbert--Division of Obstetrics and Fetomaternal Medicine, Department of Obstetrics and Gynecology, Medical University Vienna, Vienna, Austria.
-HolzerIris--Division of Obstetrics and Fetomaternal Medicine, Department of Obstetrics and Gynecology, Medical University Vienna, Vienna, Austria.
-HussleinPeter--Division of Obstetrics and Fetomaternal Medicine, Department of Obstetrics and Gynecology, Medical University Vienna, Vienna, Austria.
+A Randomized Trial to Compare the Safety, Tolerability, and Effectiveness of 3 Antimalarial Regimens for the Prevention of Malaria in Nigerian Patients With Sickle Cell Disease.
+[StringElement('Malaria prophylaxis is recommended for persons with sickle cell disease (SCD), but the value of this has been questioned. The aim of this study was to find out whether intermittent preventive treatment (IPT) with a fixed-dose combination of mefloquine-artesunate (MQAS) or sulfadoxine-pyrimethamine plus amodiaquine (SPAQ) was more effective than daily proguanil for malaria prevention in subjects with SCD.', attributes={u'NlmCategory': u'BACKGROUND', u'Label': u'BACKGROUND'}), StringElement('Patients with SCD were randomized to receive daily treatment with proguanil or IPT with either MQAS or SPAQ once every 2 months at routine clinic visits. Patients were followed up for 14 months.', attributes={u'NlmCategory': u'METHODS', u'Label': u'METHODS'}), StringElement('A total of 270 patients with SCD were studied, with 90 in each group. Adherence to the IPT regimens was excellent, but 57% of patients took <75% of their daily doses of proguanil. IPT was well tolerated; the most common side effects were vomiting and abdominal pain. Protective efficacy against malaria, compared with daily proguanil, was 61% (95% confidence interval, 3%-84%) for MQAS and 36% (40%-70%) for SPAQ. There were fewer outpatient illness episodes in children who received IPT than those who received proguanil.', attributes={u'NlmCategory': u'RESULTS', u'Label': u'FINDINGS'}), StringElement('IPT with MQAS administered to patients with SCD during routine clinic visits was well tolerated and more effective in preventing malaria than daily prophylaxis with proguanil.', attributes={u'NlmCategory': u'CONCLUSIONS', u'Label': u'CONCLUSIONS'}), StringElement('NCT01319448 and ISRCTN46158146.', attributes={u'NlmCategory': u'BACKGROUND', u'Label': u'CLINICAL TRIALS REGISTRATION'})]
+OlaosebikanRasaq--University of Ilorin Teaching Hospital, Nigeria Medical Research Council Unit, Banjul, Gambia University of Nebraska Medical Centre, Omaha.
+ErnestKolade--University of Ilorin Teaching Hospital, Nigeria.
+BojangKalifa--Medical Research Council Unit, Banjul, Gambia.
+MokuoluOlugbenga--University of Ilorin Teaching Hospital, Nigeria.
+RehmanAndrea M--London School of Hygiene and Tropical Medicine, United Kingdom.
+AffaraMuna--Medical Research Council Unit, Banjul, Gambia.
+NwakanmaDavis--Medical Research Council Unit, Banjul, Gambia.
