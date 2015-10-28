@@ -1,0 +1,254 @@
+Created by synod on 22/10/15
+
+This is a concept file with following syntax for each concept.
+
+{
+  "MedlineCitation":{
+    "DateCompleted":{
+      "Month":"09",
+      "Day":"29",
+      "Year":"2015"
+    },
+    "OtherID":[],
+    "MeshHeadingList":[
+      {
+        "QualifierName":[],
+        "DescriptorName":"Adult"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Child"
+      },
+      {
+        "QualifierName":[
+          "physiology"
+        ],
+        "DescriptorName":"Child Development"
+      },
+      {
+        "QualifierName":[
+          "epidemiology"
+        ],
+        "DescriptorName":"Denmark"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Female"
+      },
+      {
+        "QualifierName":[
+          "complications",
+          "epidemiology"
+        ],
+        "DescriptorName":"Fever"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Follow-Up Studies"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Humans"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Infant"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Male"
+      },
+      {
+        "QualifierName":[
+          "epidemiology",
+          "etiology"
+        ],
+        "DescriptorName":"Motor Skills Disorders"
+      },
+      {
+        "QualifierName":[],
+        "DescriptorName":"Pregnancy"
+      },
+      {
+        "QualifierName":[
+          "epidemiology"
+        ],
+        "DescriptorName":"Pregnancy Complications"
+      },
+      {
+        "QualifierName":[
+          "epidemiology"
+        ],
+        "DescriptorName":"Prenatal Exposure Delayed Effects"
+      }
+    ],
+    "OtherAbstract":[],
+    "CommentsCorrectionsList":[
+      {
+        "RefSource":"Dev Med Child Neurol. 2015 Aug;57(8):698-9",
+        "PMID":"25877325"
+      }
+    ],
+    "CitationSubset":[
+      "IM"
+    ],
+    "KeywordList":[],
+    "DateCreated":{
+      "Month":"07",
+      "Day":"08",
+      "Year":"2015"
+    },
+    "SpaceFlightMission":[],
+    "GeneralNote":[],
+    "Article":{
+      "ArticleDate":[
+        {
+          "Month":"03",
+          "Day":"20",
+          "Year":"2015"
+        }
+      ],
+      "Pagination":{
+        "MedlinePgn":"725-32"
+      },
+      "AuthorList":[
+        {
+          "LastName":"Holst",
+          "Initials":"C",
+          "Identifier":[],
+          "AffiliationInfo":[
+            {
+              "Affiliation":"Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark.",
+              "Identifier":[]
+            }
+          ],
+          "ForeName":"Charlotte"
+        },
+        {
+          "LastName":"J\u00f8rgensen",
+          "Initials":"SE",
+          "Identifier":[],
+          "AffiliationInfo":[
+            {
+              "Affiliation":"Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark.",
+              "Identifier":[]
+            }
+          ],
+          "ForeName":"Sanne Ellegaard"
+        },
+        {
+          "LastName":"Wohlfahrt",
+          "Initials":"J",
+          "Identifier":[],
+          "AffiliationInfo":[
+            {
+              "Affiliation":"Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark.",
+              "Identifier":[]
+            }
+          ],
+          "ForeName":"Jan"
+        },
+        {
+          "LastName":"Nybo Andersen",
+          "Initials":"AM",
+          "Identifier":[],
+          "AffiliationInfo":[
+            {
+              "Affiliation":"Section of Social Medicine, Department of Public Health",
+              "Identifier":[]
+            }
+          ],
+          "ForeName":"Anne-Marie"
+        },
+        {
+          "LastName":"Melbye",
+          "Initials":"M",
+          "Identifier":[],
+          "AffiliationInfo":[
+            {
+              "Affiliation":"Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark.",
+              "Identifier":[]
+            }
+          ],
+          "ForeName":"Mads"
+        }
+      ],
+      "Language":[
+        "eng"
+      ],
+      "PublicationTypeList":[
+        "Journal Article"
+      ],
+      "Journal":{
+        "ISSN":"1469-8749",
+        "ISOAbbreviation":"Dev Med Child Neurol",
+        "JournalIssue":{
+          "Volume":"57",
+          "Issue":"8",
+          "PubDate":{
+            "Month":"Aug",
+            "Year":"2015"
+          }
+        },
+        "Title":"Developmental medicine and child neurology"
+      },
+      "ArticleTitle":"Fever during .",
+      "ELocationID":[
+        "10.1111/dmcn.12743"
+      ],
+      "Abstract":{
+        "AbstractText":[
+          ion between maternal fever during pregnancy and DCD in children at age 7 years. The lack of."
+        ],
+        "CopyrightInformation":"\u00a9 2015 Mac Keith Press."
+      }
+    },
+    "PMID":"25800617",
+    "MedlineJournalInfo":{
+      "MedlineTA":"Dev Med Child Neurol",
+      "Country":"England",
+      "NlmUniqueID":"0006761",
+      "ISSNLinking":"0012-1622"
+    }
+  },
+  "PubmedData":{
+    "ArticleIdList":[
+      "10.1111/dmcn.12743",
+      "25800617"
+    ],
+    "PublicationStatus":"ppublish",
+    "History":[
+      {
+        "Month":"2",
+        "Day":"2",
+        "Year":"2015"
+      },
+      {
+        "Month":"3",
+        "Day":"20",
+        "Year":"2015"
+      },
+      {
+        "Minute":"0",
+        "Month":"3",
+        "Day":"25",
+        "Hour":"6",
+        "Year":"2015"
+      },
+      {
+        "Minute":"0",
+        "Month":"3",
+        "Day":"25",
+        "Hour":"6",
+        "Year":"2015"
+      },
+      {
+        "Minute":"0",
+        "Month":"9",
+        "Day":"30",
+        "Hour":"6",
+        "Year":"2015"
+      }
+    ]
+  }
+}
