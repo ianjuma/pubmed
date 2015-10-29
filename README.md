@@ -48,3 +48,8 @@ total author # - 3 authors
 ---------------------------  END  ---------------------------------
 
 ```
+
+### Output
+```python
+$ This produces a .txt file named pubmed.txt
+```
