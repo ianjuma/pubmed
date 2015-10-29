@@ -4,7 +4,7 @@ from Bio import Entrez
 from pub_med import fetch_page_per_index, retrieve_impact_factor
 
 email = 'wjuma@students.usiu.ac.ke'
-
+target_encoding = "utf-8"
 
 def search(query, number_of_articles_):
     Entrez.email = email
@@ -46,9 +46,20 @@ if __name__ == '__main__':
         print 'ISSN No: ', paper['MedlineCitation']['Article']['Journal']['ISSN']
         target.write('ISSN No: ' + paper['MedlineCitation']['Article']['Journal']['ISSN'] + '\n')
 
-        year = paper['MedlineCitation']['Article']['ArticleDate'][0]['Year']
-        month = paper['MedlineCitation']['Article']['ArticleDate'][0]['Month']
-        day = paper['MedlineCitation']['Article']['ArticleDate'][0]['Day']
+        try:
+            year = paper['MedlineCitation']['Article']['ArticleDate'][0]['Year']
+        except (IndexError, KeyError):
+            year = None
+
+        try:
+            month = paper['MedlineCitation']['Article']['ArticleDate'][0]['Month']
+        except (IndexError, KeyError):
+            month = None
+
+        try:
+            day = paper['MedlineCitation']['Article']['ArticleDate'][0]['Day']
+        except (IndexError, KeyError):
+            day = None
 
         # print 'Date Completed: ', paper['MedlineCitation']['DateCompleted']
         # target.write('Date Completed: ' + str(paper['MedlineCitation']['DateCompleted']) + '\n')
@@ -62,17 +73,31 @@ if __name__ == '__main__':
         target.write("Impact factor - " + impact_factor + "\n")
 
         print paper['MedlineCitation']['Article']['ArticleTitle'] + "\n"
-        target.write(paper['MedlineCitation']['Article']['ArticleTitle'] + '\n')
+        target.write(paper['MedlineCitation']['Article']['ArticleTitle'].encode('utf-8') + '\n')
         print paper['MedlineCitation']['Article']['Abstract']['AbstractText'][0]
-        target.write(str(paper['MedlineCitation']['Article']['Abstract']['AbstractText']) + '\n')
+        target.write(str(paper['MedlineCitation']['Article']['Abstract']['AbstractText']).encode('utf-8') + '\n')
 
         print "\n---------------------- AUTHORS ------------------------ \n"
         target.write("\n---------------------- AUTHORS ------------------------ \n")
         for author in paper['MedlineCitation']['Article']['AuthorList']:
             number_of_authors += 1
-            print author['LastName'], author['ForeName'], "--", author['AffiliationInfo'][0]['Affiliation']
-            target.write(author['LastName'] + author['ForeName'] + "--" +
-                         author['AffiliationInfo'][0]['Affiliation'] + '\n')
+            try:
+                last_name = author['LastName']
+            except IndexError:
+                last_name = None
+
+            try:
+                fore_name = author['ForeName']
+            except IndexError:
+                fore_name = None
+
+            try:
+                author_affiliation = author['AffiliationInfo'][0]['Affiliation']
+            except IndexError:
+                author_affiliation = None
+
+            print last_name, fore_name, "--", author_affiliation
+            target.write(str(last_name).encode('utf-8') + str(fore_name).encode('utf-8') + "->" + str(author_affiliation).encode('utf-8') + '\n')
 
         print "total author # - %d authors" % number_of_authors
         target.write("total author # - %d authors" % number_of_authors + '\n')
