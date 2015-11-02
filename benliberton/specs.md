@@ -1,4 +1,4 @@
-### Specs
+#### Specs
 
 Mining pub-med - run a query, then search
 Journal impact factor
@@ -9,7 +9,7 @@ Get the article journal factor through JCR
 #### what is a good deliverable? A script to run? yes, write to txt file
 #### enter keyword, search - return results to a text file
 
-### Output
+#### Output
     - the number of authors
     - name of the journal (title)
     - year and number of citations
@@ -17,9 +17,5 @@ Get the article journal factor through JCR
     - abstract
     - name of authors
     - journal impact factor not found - N/ A - ref with ISBN number
-
-journal impact factor - number of citations
-
-cite factor - index [a-Z]
-
-http://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
+    - journal impact factor - number of citations
+    - cite factor - index [a-Z]
