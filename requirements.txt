@@ -2,3 +2,4 @@ lxml
 beautifulsoup4
 numpy
 pandas
+biopython==1.66
